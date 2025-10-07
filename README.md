@@ -1,6 +1,6 @@
 # 🔗 LinkHub: Serviço de Encurtador de URL de Alta Performance
 
-Este projeto é um serviço robusto de encurtamento de URLs, construído com **Java e Spring Boot**. O principal objetivo é demonstrar uma arquitetura de microsserviço completa, focada em **resiliência, performance e automação** de ponta a ponta (DevOps).
+Este projeto é um serviço robusto de encurtamento de URLs, construído com **Java e Spring Boot**. O principal objetivo é demonstrar uma arquitetura de microsserviço completa, focada em **resiliência, performance e automação** DevOps.
 
 **O LinkHub não é apenas um encurtador; é um laboratório prático de Engenharia de Software.**
 
@@ -20,6 +20,15 @@ O projeto segue a **Arquitetura Hexagonal (Ports & Adapters)**, garantindo que a
 | **CI/CD** | **GitHub Actions**, Docker | Automação total de testes, build e entrega (Delivery Contínuo). |
 
 ---
+<img width="1356" height="766" alt="rediss" src="https://github.com/user-attachments/assets/229b7ad2-1034-44d2-afd7-c3fec454da76" />
+<img width="1090" height="540" alt="redis" src="https://github.com/user-attachments/assets/77b9dea3-1874-4abb-9859-d733472c4105" />
+<img width="1304" height="628" alt="prume" src="https://github.com/user-attachments/assets/0cea849b-8eda-4d45-89b8-dc3c86a52c5f" />
+<img width="1281" height="762" alt="promee" src="https://github.com/user-attachments/assets/e1681343-8552-4dc4-9e54-57aae6fa92cd" />
+<img width="1090" height="401" alt="prome" src="https://github.com/user-attachments/assets/be1354ec-f3da-4a26-a223-dc60ef18b586" />
+<img width="1329" height="743" alt="pipeline" src="https://github.com/user-attachments/assets/4e7a2c15-e3f9-4bfa-af99-addb1e2154bd" />
+<img width="1300" height="758" alt="grafana" src="https://github.com/user-attachments/assets/97b85b66-9207-44f7-be36-59339c32d8d0" />
+<img width="1102" height="381" alt="fliwai_migraçã" src="https://github.com/user-attachments/assets/3f6b7d54-4323-4f47-97b0-5193758ef54a" />
+<img width="1095" height="735" alt="ci_cd" src="https://github.com/user-attachments/assets/e3e15e97-dea8-412c-a3bc-264a96bbb5c4" />
 
 ## 🚀 Status de Validação do Sistema
 
@@ -98,12 +107,3 @@ Toda a entrega é automatizada via GitHub Actions.
   * **Resultado:** Após o build e testes, a nova imagem é publicada no seu repositório
 
 -----
-
-## 🤝 Contribuições
-
-Contribuições, sugestões e feedbacks são bem-vindos\!
-
-Criado por: **[Seu Nome/GitHub Username]**
-
-```
-```
