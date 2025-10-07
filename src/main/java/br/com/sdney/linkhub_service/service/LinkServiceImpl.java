@@ -34,7 +34,7 @@ public class LinkServiceImpl implements LinkServicePort {
     @Override
     @Cacheable("links")
     public String obterUrlOriginal(String shortCode) {
-        log.info("BUSCANDO NO BANCO DE DADOS pelo código: {}", shortCode);
+        log.info("BUSCANDO NO BANCO DE DDADOS pelo código: {}", shortCode);
         return linkRepository.findByShortCode(shortCode)
                 .map(Link::getLongUrl)
                 .orElseThrow(() -> new RuntimeException("Link não encontrado para o código: " + shortCode));
